@@ -1,9 +1,9 @@
 # FaceRecognizer
 Face Recognition using OpenCV
 
-There are two python files.
-1. DataGeneration.py
-2. FaceRecognition.py
+There are two python files.<br />
+1. DataGeneration.py<br />
+2. FaceRecognition.py<br />
 Step 1:
 • First run the DataGeneration.py. It will give you user input for
 user’s name, and it will store the frames which are collected from
