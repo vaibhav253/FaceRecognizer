@@ -5,8 +5,8 @@ There are two python files.<br />
 1. DataGeneration.py<br />
 2. FaceRecognition.py<br />
 Step 1:<br />
-• First run the DataGeneration.py. It will give you user input for user’s name, and it will store the frames which are collected from
-the cap in a Frames folder.<br />
+<li>First run the DataGeneration.py. It will give you user input for user’s name, and it will store the frames which are collected from
+the cap in a Frames folder.</li><br />
 • And user’s data will be stored into images.db which contains PersonINFO table.<br />
 Step 2:<br />
 • In step 2 I have used LBPHFaceRecognizer model which is provided by opencv. It is built in model for the face recognition.<br />
